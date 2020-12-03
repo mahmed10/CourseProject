@@ -1,0 +1,11 @@
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0000.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0001.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0002.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0003.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0004.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0005.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0006.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0007.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0008.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0009.jpg
+D:/Desktop/git_ripo/DebrisDetection/attempt1/dataset/images/train/frame0010.jpg

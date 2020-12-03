@@ -1,0 +1,4 @@
+classes=1
+train=D:/Desktop/git_ripo/CourseProject/data/dronedata.txt
+valid=D:/Desktop/git_ripo/CourseProject/data/dronedata.txt
+names=data/dronedata.names
